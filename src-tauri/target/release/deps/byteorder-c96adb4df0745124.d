@@ -1,8 +1,0 @@
-C:\Users\DANIEL T.I\Desktop\CineTorrent-Next\src-tauri\target\release\deps\byteorder-c96adb4df0745124.d: C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\byteorder-1.5.0\src\lib.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\byteorder-1.5.0\src\io.rs
-
-C:\Users\DANIEL T.I\Desktop\CineTorrent-Next\src-tauri\target\release\deps\libbyteorder-c96adb4df0745124.rlib: C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\byteorder-1.5.0\src\lib.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\byteorder-1.5.0\src\io.rs
-
-C:\Users\DANIEL T.I\Desktop\CineTorrent-Next\src-tauri\target\release\deps\libbyteorder-c96adb4df0745124.rmeta: C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\byteorder-1.5.0\src\lib.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\byteorder-1.5.0\src\io.rs
-
-C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\byteorder-1.5.0\src\lib.rs:
-C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\byteorder-1.5.0\src\io.rs:
