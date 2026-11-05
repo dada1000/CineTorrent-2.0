@@ -1,0 +1,2 @@
+cargo:rustc-link-search=native=C:\Users\DANIEL T.I\Desktop\CineTorrent-Next\src-tauri\target\release\build\webview2-com-sys-48e132e5e8a02175\out\x64
+cargo:rustc-link-lib=advapi32

@@ -1,0 +1,10 @@
+C:\Users\DANIEL T.I\Desktop\CineTorrent-Next\src-tauri\target\release\deps\async_stream-2c2349b91cfbb9cb.d: C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\lib.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\async_stream.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\next.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\yielder.rs
+
+C:\Users\DANIEL T.I\Desktop\CineTorrent-Next\src-tauri\target\release\deps\libasync_stream-2c2349b91cfbb9cb.rlib: C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\lib.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\async_stream.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\next.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\yielder.rs
+
+C:\Users\DANIEL T.I\Desktop\CineTorrent-Next\src-tauri\target\release\deps\libasync_stream-2c2349b91cfbb9cb.rmeta: C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\lib.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\async_stream.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\next.rs C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\yielder.rs
+
+C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\lib.rs:
+C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\async_stream.rs:
+C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\next.rs:
+C:\Users\DANIEL\ T.I\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-stream-0.3.6\src\yielder.rs:
